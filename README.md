@@ -146,14 +146,6 @@ Open the `.ipynb` file and run the notebook cells sequentially.
 
 **Note:** An internet connection may be required to retrieve the UCI datasets used in the notebook.
 
-## Project Structure
-
-```text
-machine-learning-coursework/
-│
-├── README.md
-├── machine_learning_assignment.ipynb
-└── machine_learning_assignment.pdf
 ```
 ## Conclusion
 
