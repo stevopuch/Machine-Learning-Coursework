@@ -121,7 +121,7 @@ Techniques implemented:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/machine-learning-coursework.git
+git clone https://github.com/stevopuch/machine-learning-coursework.git
 ```
 
 ### 2. Navigate into the project directory
